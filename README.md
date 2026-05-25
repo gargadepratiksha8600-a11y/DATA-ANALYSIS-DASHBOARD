@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-DASHBOARD USING POWER BI
+# SALES-ANALYSIS-DASHBOARD USING POWER BI
 ## Project objectives
 A Power BI Sales Analysis Dashboard that provides insights into sales, profit, quantity, discounts, customer segments, regional performance, and product trends through interactive visualizations.”
 
