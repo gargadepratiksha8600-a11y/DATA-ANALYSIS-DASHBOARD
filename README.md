@@ -21,6 +21,10 @@ Verified data types and handled missing values.
 Built KPI cards for Sales, Profit, Quantity, and Discount.
 Created visualizations including line charts, pie charts, bar charts, and maps
 
+## Dashboard
+<img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/b8e18510-1dfc-4781-ad98-b39495eb5664" />
+
+
 ## Final Conclusion
 
 The Sales Analysis Dashboard provides a clear overview of business performance by analyzing sales, profit, quantity sold, discounts, regions, customer segments, and product categories. The report helps identify top-performing regions and products, monitor sales trends over time, and evaluate the impact of discounts on profitability. Interactive visualizations enable better decision-making and support data-driven business strategies.
