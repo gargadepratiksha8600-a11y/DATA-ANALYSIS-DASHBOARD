@@ -11,3 +11,5 @@ A Power BI Sales Analysis Dashboard that provides insights into sales, profit, q
 - How many products were sold in total
 - Which product sub-category has the highest sales?
 - Which region generates the most sales?
+
+- Dashboard interaction  <a href="https://github.com/gargadepratiksha8600-a11y/DATA-ANALYSIS-DASHBOARD/blob/main/Screenshot%20(33).png">view Dashboard</a>
